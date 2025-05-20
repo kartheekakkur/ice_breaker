@@ -4,8 +4,8 @@ Ice Breaker is an automated tool that helps you "break the ice" with new contact
 
 ## Features
 
-- **LinkedIn Profile Lookup:** Finds a person's LinkedIn profile using their name.
-- **Profile Data Scraping:** Extracts key information from the LinkedIn profile.
+- **LinkedIn Profile Lookup:** Finds a person's LinkedIn profile using their name.(Uses https://tavily.com/)
+- **Profile Data Scraping:** Extracts key information from the LinkedIn profile.(Uses https://www.scrapin.io/)
 - **Summary & Facts Generation:** Uses LLMs to generate a summary and a list of interesting facts.
 - **API Access:** FastAPI backend to serve summary and facts via HTTP.
 - **Streamlit Frontend:** Simple web interface for user input and displaying results.
@@ -41,6 +41,13 @@ ice_breaker/
 
 3. **Set up environment variables:**
     - Copy `.env.example` to `.env` and fill in your API keys for OpenAI, ScrapIn, and Tavily.
+
+    ```text
+    OPENAI_API_KEY=xxxxxxxxxx
+    SCRAPIN_API_KEY=xxxxxxx
+    TAVILY_API_KEY=xxxxxxxxxxx
+
+    ```
 
 4. **Run the FastAPI backend:**
     ```bash
