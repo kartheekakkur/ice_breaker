@@ -58,7 +58,8 @@ ice_breaker/
 2. Enter the name of the person you want to "break the ice" with.
 3. Click "Get Ice Breaker" to see a summary and interesting facts about them.
 
-![image](https://github.com/user-attachments/assets/016b410c-32e3-4987-8a1b-44499c9f1394)
+![image](https://github.com/user-attachments/assets/27e452c4-d393-4607-8519-953b49076b44)
+
 
 
 ## API
