@@ -13,6 +13,5 @@ def get_user(name: str):
     """
     Ice Breaker API endpoint to get LinkedIn profile summary and facts.
     """
-    # Use the 'name' parameter directly as it comes from the path
     user_summary = ice_break_with(name)
     return {"summary_and_facts": user_summary.to_dict()}

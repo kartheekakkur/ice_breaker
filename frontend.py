@@ -3,7 +3,7 @@ import requests
 
 name = st.text_area("Enter the name of person you want break ice with")
 if st.button("Get Ice Breaker"):
-    # Make a request to the FastAPI backend
+
     response = requests.get(f"http://localhost:8000/ice_break/{name}")
     
     if response.status_code == 200:
