@@ -4,7 +4,8 @@ Ice Breaker is an automated tool that helps you "break the ice" with new contact
 
 ## Demo
 
-![ice-breaker](https://github.com/user-attachments/assets/9ec4d2b5-cf3c-4333-8ecb-8641dc8a86f8)
+![ice-breaker](https://github.com/user-attachments/assets/43bd7843-1b64-426d-b7c2-239260229698)
+
 
 ## Features
 
