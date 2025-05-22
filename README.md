@@ -2,6 +2,10 @@
 
 Ice Breaker is an automated tool that helps you "break the ice" with new contacts by generating a concise summary and interesting facts from their LinkedIn profile. The project leverages LLMs, web scraping, and search tools to find a person's LinkedIn profile, extract relevant data, and present it in an easy-to-digest format.
 
+## Demo
+
+![ice-breaker](https://github.com/user-attachments/assets/9ec4d2b5-cf3c-4333-8ecb-8641dc8a86f8)
+
 ## Features
 
 - **LinkedIn Profile Lookup:** Finds a person's LinkedIn profile using their name.(Uses https://tavily.com/)
